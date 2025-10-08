@@ -11,7 +11,8 @@ This repository contains the data and documentation of a study conducted with so
   PDF document containing the questionnaire administered to the professionals. It presents all the questions and sections of the survey, helping to contextualize the data collection process.
 
 - 🧭 *Survey Flowchart*  
-  ![Flowchart of the Survey Applied to Requirements Engineering Professionals](abntex/fluxograma.png)  
+  <img width="940" height="738" alt="image" src="https://github.com/user-attachments/assets/bce841e4-fb91-4892-adb2-3b706451bc9f" />
+
   Figure: Flowchart representing the navigation logic of the questionnaire.
 
 ## 🔍 About the Study
